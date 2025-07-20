@@ -2,6 +2,10 @@
 
 Я начинающий тестировщик ПО, стремлюсь к глубокой проработке качества продукта и постоянному развитию в области QA. Мои проекты здесь — это практика, шаг за шагом приближающая к профессиональному уровню
 
+## My CV
+
+[My CV](https://drive.google.com/file/d/1z-R8wSm2V3KQ8--yWDn9VClx4XaFY3vD/view?usp=sharing)
+
 ## 📫 Контакты
   <a href="https://t.me/Gveraa"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
   <a href="mailto: grachevavera174@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
